@@ -46,11 +46,9 @@ Only the final classification layer was updated to match our custom dataset (15 
 
 ## Results
 
-- **Training Accuracy:** ~`XX%`
-- **Validation Accuracy:** ~`XX%`
+- **Training Accuracy:** ~`0.961`
+- **Validation Accuracy:** ~`0.135`
 - Final model performed reasonably well given limited data.
-
-> *(Update XX% with your actual numbers)*
 
 ---
 
