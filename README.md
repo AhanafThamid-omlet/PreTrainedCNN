@@ -73,6 +73,7 @@ Only the final classification layer was updated to match our custom dataset (15 
 
 ## Author
 
+**Student**
 **Ahanaf_Tahmid**  
 Dept. of CSE  
 East West University
